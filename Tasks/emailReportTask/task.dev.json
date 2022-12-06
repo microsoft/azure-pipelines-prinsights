@@ -228,7 +228,7 @@
   "instanceNameFormat": "Send Email Report $(sendMailConditionConfig)",
   "execution": {
     "Node": {
-      "target": "Index.js"
+      "target": "index.js"
     }
   }
 }
